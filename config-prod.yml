@@ -1,2 +1,2 @@
 config:
-  info:prod version-1
+  info: "prod version-1"
